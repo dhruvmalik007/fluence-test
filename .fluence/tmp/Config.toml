@@ -1,0 +1,3 @@
+[[module]]
+name = "fluenceTest"
+load_from = "/Users/decroissant/Desktop/current_Projects/frontier_tech/extra/fluence-test /target/wasm32-wasi/release/fluenceTest.wasm"

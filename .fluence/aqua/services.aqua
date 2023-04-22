@@ -1,0 +1,2 @@
+service FluenceTest("fluenceTest"):
+  greeting(name: string) -> string
