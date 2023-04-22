@@ -1,8 +1,5 @@
 use marine_rs_sdk::marine;
 
-#[cfg(test)]
-mod 
-
 
 pub fn main() {}
 

@@ -8,6 +8,8 @@ name = "fluenceTest"
 path = "src/main.rs"
 
 [dependencies]
+dioxus = "0.3.2"
+dioxus-web = "0.3.1"
 marine-rs-sdk = "0.7.1"
 
 [dev-dependencies]
